@@ -1,0 +1,9 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/rocm
+onnxruntime-genai-amd==0.2.0
+transformers==4.38.0
+diffusers==0.26.3
+chromadb==0.4.24
+PyPDF2==3.0.1
+python-dotenv==1.0.1
